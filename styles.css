@@ -1,0 +1,36 @@
+body{
+    
+    background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+}
+.btn{
+    display: inline;
+    padding: 15px;
+}
+
+button{
+    padding: 5px;
+} 
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: blue;
+}
+
+.container{
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+    text-align: center;
+    width: 650px !important;
+    margin: auto;
+    padding: 25px;
+    border: 5px solid;
+    margin-top: 10%;
+ 
+}
+
+h1{
+    margin-bottom: 35px;
+}
